@@ -59,7 +59,7 @@ ______________________________________________________________
 ### CONTATE-ME : 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nascimentodev01@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([nascimentodev01@gmail.com](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit))
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heverton-lucas-barbosa-nascimento-925a16301/)
 
 
 
